@@ -19,6 +19,7 @@
   
   ## Certification
   - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/3e3b89f507524613a5df424c0147b6d2)
+  - [ORACLE "Become an OCI Foundations Associate" CERTIFICATE](https://catalog-education.oracle.com/ords/certview/sharebadge?id=58FFDE460AF30C8EEAF3D009B3AE754E1F7D69A0331874C8019EAAB2298520E9)
   
   ## Skill Sets
   
