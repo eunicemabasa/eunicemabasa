@@ -9,12 +9,7 @@
 
   ## Education
   
-  - **Junior Highschool**
-  - APEC SCHOOLS - Marikina Heights
-  - (2017 - 2020)
-  
   - **NEW ERA UNIVERSITY**
-  - STEM (2021 - 2023)
   - BS in Computer Science (2023 - present)
   
   ## Certification
