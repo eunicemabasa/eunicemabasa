@@ -18,6 +18,7 @@
   - [ORACLE "Become an Oracle Cloud Data Management Foundations Associate" CERTIFICATE](https://catalog-education.oracle.com/ords/certview/sharebadge?id=58FFDE460AF30C8EEAF3D009B3AE754E664FC6205227BEC14AC7B15B276EFEE5)
   - [ORACLE "Become An OCI AI Foundations Associate (2024)" CERTIFICATE](https://catalog-education.oracle.com/ords/certview/sharebadge?id=C6EA585B8F134426B8FF542C4BE586A93302D904A538DC6E4D0D3B0510304A80)
   - [Getting Starter in Google Analytics CERTIFICATE](https://coursera.org/share/1a612c8e8bd701a7435bb06ff0551551)
+  - [HackerRank "Software Engineer" Title CERTIFICATE](https://www.hackerrank.com/certificates/04ab94ce3aae)
   ## Skill Sets
   
 
