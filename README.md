@@ -21,6 +21,7 @@
   - [HackerRank "Software Engineer" Title CERTIFICATE](https://www.hackerrank.com/certificates/04ab94ce3aae)
   - [HackerRank "FrontEnd Developer (React)" Title CERTIFICATE](https://www.hackerrank.com/certificates/c33e4104c18a)
   - [HackerRank "Python (Basic)" Title CERTIFICATE](https://www.hackerrank.com/certificates/1dbafbcb4f1c)
+  - [HackerRank "Software Engineer Intern" Title CERTIFICATE](https://www.hackerrank.com/certificates/162ebc7fdb54)
   ## Skill Sets
   
 
