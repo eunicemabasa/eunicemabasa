@@ -20,6 +20,7 @@
   - [Getting Starter in Google Analytics CERTIFICATE](https://coursera.org/share/1a612c8e8bd701a7435bb06ff0551551)
   - [HackerRank "Software Engineer" Title CERTIFICATE](https://www.hackerrank.com/certificates/04ab94ce3aae)
   - [HackerRank "FrontEnd Developer (React)" Title CERTIFICATE](https://www.hackerrank.com/certificates/c33e4104c18a)
+  - [HackerRank "Python (Basic)" Title CERTIFICATE](https://www.hackerrank.com/certificates/1dbafbcb4f1c)
   ## Skill Sets
   
 
