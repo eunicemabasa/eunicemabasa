@@ -22,6 +22,7 @@
   - [HackerRank "FrontEnd Developer (React)" Title CERTIFICATE](https://www.hackerrank.com/certificates/c33e4104c18a)
   - [HackerRank "Python (Basic)" Title CERTIFICATE](https://www.hackerrank.com/certificates/1dbafbcb4f1c)
   - [HackerRank "Software Engineer Intern" Title CERTIFICATE](https://www.hackerrank.com/certificates/162ebc7fdb54)
+  - [Claude "Claude Code 101" CERTIFICATE](https://academy.claude.com/verify/bc4456e14b2f4ed05ede4fb75dcdfd40)
   ## Skill Sets
   
 
