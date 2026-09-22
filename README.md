@@ -24,6 +24,7 @@
   - [HackerRank "Software Engineer Intern" Title CERTIFICATE](https://www.hackerrank.com/certificates/162ebc7fdb54)
   - [Claude "Claude Code 101" CERTIFICATE](https://academy.claude.com/verify/bc4456e14b2f4ed05ede4fb75dcdfd40)
   - [Prompt Engineering for Everyone CERTIFICATE](https://courses.cognitiveclass.ai/certificates/6e4f8a4c93b1473c9b81ef778702828d)
+  - [Docker Essentials: A Developer Introduction CERTIFICATE](https://courses.cognitiveclass.ai/certificates/9cda4c0e8f874f27b0e1ab5b0ef29960)
   ## Skill Sets
   
 
