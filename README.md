@@ -26,6 +26,7 @@
   - [Prompt Engineering for Everyone CERTIFICATE](https://courses.cognitiveclass.ai/certificates/6e4f8a4c93b1473c9b81ef778702828d)
   - [Docker Essentials: A Developer Introduction CERTIFICATE](https://courses.cognitiveclass.ai/certificates/9cda4c0e8f874f27b0e1ab5b0ef29960)
   - [Python 101 for Data Science CERTIFICATE](https://courses.cognitiveclass.ai/certificates/60585aa5984d41fab894ff2b61d29739)
+  - [R for Data Science CERTIFICATE](https://courses.cognitiveclass.ai/certificates/65b458ef11974cd6a553251252f9689e)
   ## Skill Sets
   
 
